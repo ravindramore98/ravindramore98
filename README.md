@@ -6,7 +6,7 @@
 
 ## 📊 Data Analyst | Automation Specialist | Problem Solver
 
-I'm a detail-driven Data Analyst with 3+ years of experience in automation testing and data analytics at Dassault Systèmes. Passionate about transforming raw data into actionable insights and building efficient data pipelines.
+I'm a detail-driven Data Analyst with 3+ years of experience in data analytics and automation testing at Dassault Systèmes. Passionate about transforming raw data into actionable insights and building efficient data pipelines.
 
 ### 🔧 Technical Skills
 **Languages & Tools**  
